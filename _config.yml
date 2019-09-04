@@ -113,27 +113,27 @@ author:
   location         : "Boston, MA"
   email            :
   links:
-    - label: "patel.vira@husky.neu.edu"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:patel.vira@husky.neu.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://viralpatel3.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://facebook.com/viru331"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/viralpatel3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-LinkedIn"
-    #   url: "https://www.linkedin.com/in/viral-d-patel/"
+      url: "https://instagram.com/viru_viral"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-LinkedIn"
+      url: "https://www.linkedin.com/in/viral-d-patel/"
 
 # Site Footer
 footer:
