@@ -116,6 +116,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:patel.vira@husky.neu.edu
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/viralpatel3"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/viral-d-patel/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://viralpatel3.github.io"
@@ -125,15 +131,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://facebook.com/viru331"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/viralpatel3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/viru_viral"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/viral-d-patel/"
 
 # Site Footer
 footer:
