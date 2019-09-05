@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://viralpatel3.github.io/viralpatel/about/
+    url: /about/
   - title: "Machine Learning"
-    url: https://viralpatel3.github.io/viralpatel/machine-learning/
+    url: /machine-learning/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
