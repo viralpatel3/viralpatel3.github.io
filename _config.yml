@@ -108,10 +108,10 @@ analytics:
 # Site Author
 author:
   name             : "Viral Patel"
-  avatar           : "/images/dog.jpg"
+  avatar           : "/images/fl_resized3.jpg"
   bio              : "Data Science Portfolio"
   location         : "Boston, MA"
-  email            :
+  email            : "patel.vira@husky.neu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
